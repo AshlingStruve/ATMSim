@@ -6,7 +6,6 @@ const ATMDeposit = ({ onChange, isDeposit, isValid }) => {
       <h3> {choice[Number(!isDeposit)]}</h3>
       <input id="number-input" type="number" width="200" onChange={onChange}></input>
       <input type="submit" disabled={!isValid} width="200" value="Submit" id="submit-input"></input>
-      <input type="submit" 
     </label>
   );
 };
