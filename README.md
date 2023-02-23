@@ -1,2 +1,3 @@
-# ATMSim
-ATM Banking Project
+# ATMExercise
+Simple React ATM
+<img src="./atm.png" />
